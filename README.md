@@ -1,16 +1,17 @@
-## Hi there 👋
+### Olá, eu sou Isaac Nilberto e seja bem-vindo ao meu Github. 😉
 
-<!--
-**Isaac-Nilberto/Isaac-Nilberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-nilberto-macedo/)
 
-Here are some ideas to get you started:
+### Formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bacharel em Geofísica, pela Universidade Federal do Pará.
+
+### Tecnologia
+
+- Coleta de dados: SQL e NoSql
+- Processamento e Análise de dados: Python(Numpy e Pandas), Excel, PySpark
+- Visualização de dados: MatplotLib, Seaborn e Excel
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Nilberto&hide_progress=true)
+![Isaac Nilberto GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac-Nilberto&show_icons=true&theme=dark)
+
